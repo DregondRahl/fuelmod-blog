@@ -1,1 +1,6 @@
 Simple Blog Module For FUEL PHP Framework
+
+Packages Required
+
+Auth Package
+ORM Package
